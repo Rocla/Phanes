@@ -1,14 +1,9 @@
-# Projet de développement web
-Hello World, Bananas!
+# School Project of Web Development at HE-Arc Neuchâtel
 
-Répertoire de notre super projet web avec Laravel !
+It's a turn-based video game in [HTML5](http://www.w3.org/TR/html5/), [PHP](http://www.php.net), and [Laravel](http://laravel.com).
 
+## Brief Description
 
-## Projets proposés (Jeux)
+It is a multiplayer Community Simulator on space.
 
-1. Combat de vaisseaux spatiaux tour par tour
-2. Simulateur de survie en comunauté
-3. Apprendre à coder :)
-
-
-## [Pensez à utiliser notre wiki ;)](https://github.com/arkeine/Dev-Web-Project/wiki)
+## [More on the Wiki](https://github.com/arkeine/Dev-Web-Project/wiki)
