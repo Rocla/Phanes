@@ -6,4 +6,4 @@ It's a turn-based video game in [HTML5](http://www.w3.org/TR/html5/), [PHP](http
 
 It is a multiplayer Community Simulator on space.
 
-## [More on the Wiki](https://github.com/arkeine/Dev-Web-Project/wiki)
+## [More on the Wiki](https://github.com/hearc-bananas-web-dev/Phanes/wiki)
