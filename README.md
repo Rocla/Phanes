@@ -10,4 +10,4 @@ It is a multiplayer Community Simulator on space.
 
 ## License
 
-Phanes by [Romain Claret](http://www.romainclaret.com),[Claudia Gheorghe](https://github.com/klaug), and [Nils Ryter](https://github.com/arkeine) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Phanes by [Romain Claret](http://www.romainclaret.com), [Claudia Gheorghe](https://github.com/klaug), and [Nils Ryter](https://github.com/arkeine) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
